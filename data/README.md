@@ -1,0 +1,1 @@
+Run `python fetch_data.py` from the repository root to create `data/demo_activity.csv`. The CSV contains ChEMBL activity IDs, molecular SMILES and pIC50 values. Generated data are excluded from version control.
